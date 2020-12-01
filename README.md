@@ -1,7 +1,7 @@
 # EECS-189-289A-Final-Project-T
 ## Linear Regression
 ### Anika Rede, Jiyoo Jeong, Nikolay Velkov, Patrick Yin, Qiaoan Yang
-Linear Regression
+
 
 We will begin this assignment by deriving linear regression from minimizing error in y = mx+b for 1D functions. Then, we introduce the linear regression problem via OLS and showing students how to get a closed form solution through the orthogonal projection perspective. Students will be using matplotlib to visualize the data and their results throughout the assignment. They will then implement the analytical solution for simple and multiple linear regression problems. 
 
