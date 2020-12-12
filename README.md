@@ -2,6 +2,9 @@
 ## Linear Regression
 ### Anika Rede, Jiyoo Jeong, Nikolay Velkov, Patrick Yin, Qiaoan Yang
 
+<ins>Setup Information:</ins>  <br />
+To run the iPython notebooks, please check that you have the lastest versions of seaborn (0.11.0), numpy (1.19.2), and pandas (1.1.3).
+
 <ins>Learning Objectives:</ins> <br />
 We will begin this assignment by deriving linear regression from minimizing error in y = mx+b for 1D functions. Then, we introduce the linear regression problem via OLS and showing students how to get a closed form solution through the orthogonal projection perspective. Students will be using matplotlib to visualize the data and their results throughout the assignment. They will then implement the analytical solution for simple and multiple linear regression problems. 
 
